@@ -11,10 +11,7 @@ Tata
 Honda
 Audi
 Tata
-Mercedes
-Hyundai
-Kia
-Ford
-Nissan
-Lexus
-
+Ferrari
+Porche
+Jeep
+Navara
