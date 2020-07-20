@@ -1,3 +1,4 @@
 red
-sarı-lacivert
-kardeş göndersene
+yellow
+blue
+pink
